@@ -15,24 +15,24 @@
   ],
   "env": {
     "SESSION_ID": {
-      "description": "Add your Session ID here if you want to connect via session download",
+      "description": "EF-PRIME-MD_H8bEE8Tt",
       "required": false,
-      "value": ""
+      "value": "EF-PRIME-MD_H8bEE8Tt"
     },
     "OWNER_NUMBER": {
       "description": "List of owner numbers (comma-separated), without '+' sign",
       "required": true,
-      "value": "265993702468"
+      "value": "2348142822202"
     },
     "BOT_NAME": {
       "description": "Display name of your bot",
       "required": false,
-      "value": "EF-PRIME-MD-ULTRA"
+      "value": "tboyking"
     },
     "BOT_NUMBER": {
       "description": "WhatsApp phone number for pairing code (without '+' sign)",
       "required": true,
-      "value": "265993702468"
+      "value": "2348142822202"
     },
     "PACKNAME": {
       "description": "Sticker pack name",
